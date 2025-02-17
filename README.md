@@ -1,4 +1,4 @@
-# CODECRAFT_WD_05
+# WETHERAPP
 
 This project is a simple weather application that fetches and displays real-time weather data using a weather API. Users can view current weather conditions, temperature, and additional relevant information based on their current location or a manually entered location.
 
